@@ -2,6 +2,8 @@
 
 > 可视化光标元素选择器
 
+[![npm](https://img.shields.io/npm/v/@hocgin/selector-cursor?style=flat-square)](https://www.npmjs.com/package/@hocgin/selector-cursor)
+
 - 代码来源: https://github.com/GoogleChromeLabs/ProjectVisBug
 - 演示地址: https://hocgin.github.io/selector-cursor/components/selector-cursor
 
