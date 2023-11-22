@@ -8,10 +8,23 @@
     "jsx": "react-jsx",
     "baseUrl": "./",
     "paths": {
-      "@@/*": [".dumi/tmp/*"],
-      "@hocgin/selector-cursor": ["src"],
-      "@hocgin/selector-cursor/*": ["src/*", "*"]
+      "@/*": [
+        "src/*"
+      ],
+      "@@/*": [
+        ".dumi/tmp/*"
+      ],
+      "@hocgin/selector-cursor": [
+        "src"
+      ],
+      "@hocgin/selector-cursor/*": [
+        "src/*",
+        "*"
+      ]
     }
   },
-  "include": [".dumirc.ts", "src/**/*"]
+  "include": [
+    ".dumirc.ts",
+    "src/**/*"
+  ]
 }
