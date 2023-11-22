@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "strict": false,
+    "allowJs": true,
+    "declaration": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "jsx": "react-jsx",
+    "baseUrl": "./",
+    "paths": {
+      "@@/*": [".dumi/tmp/*"],
+      "@hocgin/selector-cursor": ["src"],
+      "@hocgin/selector-cursor/*": ["src/*", "*"]
+    }
+  },
+  "include": [".dumirc.ts", "src/**/*"]
+}
