@@ -3,7 +3,7 @@
 > 可视化光标元素选择器
 
 - 代码来源: https://github.com/GoogleChromeLabs/ProjectVisBug
-- 演示地址: https://hocgin.github.io/selector-cursor/
+- 演示地址: https://hocgin.github.io/selector-cursor/components/selector-cursor
 
 ### 使用方式
 
