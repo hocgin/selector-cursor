@@ -1,6 +1,6 @@
-import {Hover} from './hover.element';
-import {Handles} from './handles.element';
-import {Handle} from './handle.element';
+import {Hover} from './hover.element.js';
+import {Handles} from './handles.element.js';
+import {Handle} from './handle.element.js';
 import $ from 'blingblingjs';
 import {
   createMeasurements,
