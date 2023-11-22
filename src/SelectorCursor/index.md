@@ -1,4 +1,4 @@
-# Foo
+# selector-cursor
 
 This is an example component.
 
